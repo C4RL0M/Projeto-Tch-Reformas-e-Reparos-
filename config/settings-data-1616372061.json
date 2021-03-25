@@ -1,0 +1,1242 @@
+{
+    "current": {
+        "settings": {
+            "lgpd_disable": true,
+            "lgpd_background": null,
+            "lgpd_text_color": null,
+            "lgpd_button_background": null,
+            "lgpd_button_text_color": null,
+            "lgpd_text": "Utilizamos cookies para melhorar a sua experi\u00eancia em nosso site.",
+            "lgpd_button_text": "Continuar e fechar",
+            "lgpd_button_url": null,
+            "terms_of_acceptance": false,
+            "terms_of_acceptance_title": null,
+            "terms_of_acceptance_text": null,
+            "terms_of_acceptance_button": null,
+            "modal_image": null,
+            "modal_type": "1",
+            "modal_time": null,
+            "modal_title": null,
+            "modal_message": null,
+            "modal_button": null,
+            "modal_button_url": null,
+            "modal_button_url_target": false,
+            "opening_hours": false,
+            "schedule_monday": false,
+            "schedule_tuesday": false,
+            "schedule_wednesday": false,
+            "schedule_thursday": false,
+            "schedule_friday": false,
+            "schedule_saturday": false,
+            "schedule_sunday": false,
+            "daytime_of": null,
+            "daytime_for": null,
+            "nightly_of": null,
+            "nightly_for": null,
+            "store_background_image": {
+                "src": "media:\/\/files\/apresentacao-cinza-e-verde-de-volta-ao-trabalho-e-prevencao-ao-coronavirus-11.jpg?v=1616168706"
+            },
+            "store_background_color": null,
+            "store_background_position": "center center",
+            "store_background_size": "100%",
+            "product_image_crop": "square",
+            "product_card_custom_crop": "1000x640",
+            "product_info_custom_crop": "1000x640",
+            "font_menu": {
+                "family": "Nunito",
+                "category": "sans-serif",
+                "variants": [
+                    "200",
+                    "200italic",
+                    "300",
+                    "300italic",
+                    "regular",
+                    "italic",
+                    "600",
+                    "600italic",
+                    "700",
+                    "700italic",
+                    "800",
+                    "800italic",
+                    "900",
+                    "900italic"
+                ],
+                "font_size": 17,
+                "font_style": "normal",
+                "letter_spacing": 0,
+                "text_transform": "uppercase",
+                "font_weight": "600"
+            },
+            "font_h1": {
+                "family": "Roboto Slab",
+                "category": "serif",
+                "variants": [
+                    "100",
+                    "200",
+                    "300",
+                    "regular",
+                    "500",
+                    "600",
+                    "700",
+                    "800",
+                    "900"
+                ],
+                "font_size": 20,
+                "font_style": "normal",
+                "letter_spacing": 0,
+                "text_transform": "uppercase",
+                "font_weight": "800"
+            },
+            "font_h2": {
+                "family": "Playfair Display",
+                "category": "serif",
+                "variants": [
+                    "regular",
+                    "500",
+                    "600",
+                    "700",
+                    "800",
+                    "900",
+                    "italic",
+                    "500italic",
+                    "600italic",
+                    "700italic",
+                    "800italic",
+                    "900italic"
+                ],
+                "font_size": 20,
+                "font_style": "normal",
+                "letter_spacing": 0,
+                "text_transform": "uppercase",
+                "font_weight": "600"
+            },
+            "font_h3": {
+                "family": "Oswald",
+                "category": "sans-serif",
+                "variants": [
+                    "200",
+                    "300",
+                    "regular",
+                    "500",
+                    "600",
+                    "700"
+                ],
+                "font_size": 18,
+                "font_style": "normal",
+                "letter_spacing": 0,
+                "text_transform": "uppercase",
+                "font_weight": "500"
+            },
+            "font_texts": {
+                "family": "Roboto",
+                "category": "sans-serif",
+                "variants": [
+                    "100",
+                    "100italic",
+                    "300",
+                    "300italic",
+                    "regular",
+                    "italic",
+                    "500",
+                    "500italic",
+                    "700",
+                    "700italic",
+                    "900",
+                    "900italic"
+                ],
+                "font_size": 18,
+                "font_style": "normal",
+                "letter_spacing": 0,
+                "text_transform": null,
+                "font_weight": "regular"
+            },
+            "font_family_mn": "{\"name\":\"montserrat\",\"css\":\"'Montserrat', sans-serif\",\"url\":\"https:\/\/fonts.googleapis.com\/css?family=Montserrat:\"}",
+            "mn_fs": 14,
+            "mn_fw": "500",
+            "mn_ls": 0,
+            "mn_tt": "none",
+            "font_family_h1": "{\"name\":\"montserrat\",\"css\":\"'Montserrat', sans-serif\",\"url\":\"https:\/\/fonts.googleapis.com\/css?family=Montserrat:\"}",
+            "h1_fs": 18,
+            "h1_fw": "600",
+            "h1_ls": 0,
+            "h1_tt": "uppercase",
+            "font_family_h2": "{\"name\":\"montserrat\",\"css\":\"'Montserrat', sans-serif\",\"url\":\"https:\/\/fonts.googleapis.com\/css?family=Montserrat:\"}",
+            "h2_fs": 14,
+            "h2_fw": "600",
+            "h2_ls": 0,
+            "h2_tt": "none",
+            "font_family_h3": "{\"name\":\"montserrat\",\"css\":\"'Montserrat', sans-serif\",\"url\":\"https:\/\/fonts.googleapis.com\/css?family=Montserrat:\"}",
+            "h3_fs": 14,
+            "h3_fw": "400",
+            "h3_ls": 0,
+            "h3_tt": "none",
+            "font_family_tx": "{\"name\":\"roboto\",\"css\":\"'Roboto', sans-serif\",\"url\":\"https:\/\/fonts.googleapis.com\/css?family=Roboto:\"}",
+            "tx_fs": 13,
+            "tx_fw": "400",
+            "tx_ls": 0,
+            "tx_tt": "none",
+            "color_primary": "#000000",
+            "color_secondary": "#fe7a00",
+            "color_border": "#e1e1e1",
+            "color_highlight": "#323435",
+            "color_button_buy": "#fe7a00",
+            "color_button_buy_text": "#ffffff",
+            "color_text": "#787878",
+            "radius_size": "light_rounded",
+            "product_color_group": "grid",
+            "product_buy_button_type": "direct",
+            "product_cart_add_redirect": "not_redirect",
+            "product_buy_button_text": "Comprar",
+            "product_buy_button_outofstock_text": "Detalhes",
+            "product_image_hover": true,
+            "product_color_name": false,
+            "show_product_price_without_stock": false,
+            "product_price_type": "final",
+            "price_feature": "billet",
+            "price_parcel": "0",
+            "customize_position_customize": "after_description",
+            "seal_promotion": false,
+            "seal_promotion_billet_discount": false,
+            "seal_promotion_type": "radius",
+            "seal_promotion_fontsize": 12,
+            "seal_promotion_fontcolor": "#ffffff",
+            "seal_promotion_background": "#ff0000",
+            "seal_launch": false,
+            "seal_launch_time": "15",
+            "seal_launch_fontsize": 12,
+            "seal_launch_fontcolor": "#ffffff",
+            "seal_launch_background": "#2600ff",
+            "seal_group_discount": false,
+            "seal_group_discount_mobile": false,
+            "seal_group_fontcolor": null,
+            "seal_group_background": null,
+            "seal_pre_sale": true,
+            "seal_pre_sale_fontsize": 12,
+            "seal_pre_sale_fontcolor": null,
+            "seal_pre_sale_background": null,
+            "custom_style_css": ".product-card-price.m-final .price {\n    font-weight: 700 !important;\n    letter-spacing: 0.1rem;\n    font-size: 1.4rem;\n}\n\/*-----------RODAP\u00c9-----------*\/\n.footer-top {\n    padding-top: 4rem !important;\n    padding-bottom: 4rem !important;\n    padding: 8rem 0 !important;\n    -webkit-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);\n    -moz-box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);\n    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);\n}\n.footer-middle {\n    background: #F8F8F8;\n}\n.footer-top,\n.footer-middle {\n    border-bottom: 0 !important;\n}\n.footer-logo.version p,\n.footer-logo.version h1,\n.footer-logo.version a {\n    color: #808080 !important;\n}\n.footer-logo {\n    border-top: solid .1rem #EBEBEB !important;\n}\n.footer-3 .footer-newsletter .footer-submit {\n    border-radius: 0 !important;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n.footer-3 .footer-newsletter .footer-submit .text {\n    text-indent: 0;\n}\n\/*-----------CARRINHO-----------*\/\n.header .header-box .nav-cart .nav-icon, .header .header-top .nav-cart .nav-icon {\n    color: var(--header-cart);\n    display: none !important;\n\n\/*-----------filtro-----------*\/\n.collection-sidebar .sidebar-block--price {\n    display: none !important;\n}",
+            "favicon": {
+                "src": "media:\/\/files\/reformajpg-2.png?v=1613152675"
+            },
+            "img_share": {
+                "src": "media:\/\/files\/logo-400x200-preto-1.png?v=1613756588"
+            },
+            "hide_header_social_icons": false,
+            "hide_footer_social_icons": true,
+            "social_facebook_link": "https:\/\/www.facebook.com\/tchereformas\/",
+            "social_twitter_link": null,
+            "social_instagram_link": null,
+            "social_pinterest_link": null,
+            "social_youtube_link": null,
+            "social_linkedin_link": null,
+            "social_telegram_link": null,
+            "static_logo": {
+                "src": "media:\/\/files\/logo-800x600-1.png?v=1613756864"
+            },
+            "static_logo_dark": {
+                "src": "media:\/\/files\/logo-400x200-preto-1.png?v=1613756588"
+            },
+            "static_logo_height": "80",
+            "static_logo_height_mobile": "60",
+            "show_product_reference": true,
+            "show_product_seals": true,
+            "static_banner_logo": null,
+            "static_banner_url": null,
+            "banner_blank": false,
+            "static_color_primary_new": "#fe7a00",
+            "static_color_secondary_new": "#fe7a00",
+            "static_color_text_new": "#ffffff",
+            "static_color_button_bg": "#fe7a00",
+            "static_color_button_text": "#ffffff",
+            "contact_phone": "(41) 3086-1333",
+            "contact_whatsapp": "(41) 9 9161-8988",
+            "contact_skype": null,
+            "contact_email": "contato@tchereformas.com.br",
+            "contact_schedule": null,
+            "static_custom_style_css_new": ".collection-sidebar .sidebar-block--price {\n    -webkit-order: 5;\n    -moz-box-ordinal-group: 6;\n    order: 5;\n    display: none;\n}",
+            "shipping_message": false,
+            "shipping_whatsapp": null,
+            "show_group_discount_message": false,
+            "google_recaptcha": false
+        },
+        "sections": {
+            "header": {
+                "type": "header",
+                "settings": {
+                    "container": "container",
+                    "type": "3",
+                    "version": false,
+                    "show_smartsearch": false,
+                    "opacity": 10,
+                    "border_opacity": 0,
+                    "header_bg": null,
+                    "primary_color": "#ffffff",
+                    "secondary_color": "#fd8510",
+                    "highlight_color": "#000000",
+                    "border_color": "#ffffff",
+                    "type_mobile": "1",
+                    "show_dropdowncart": false,
+                    "show_header_fixed": false,
+                    "logo_maxheight_fixed": "400px",
+                    "fixed_type": "styleheader",
+                    "version_fixed": false,
+                    "logo_dark_fixed": null,
+                    "logo_light_fixed": null,
+                    "logo_dark": {
+                        "src": "media:\/\/files\/logo-400x200-preto2.png?v=1616008060"
+                    },
+                    "logo_light": null,
+                    "logo_mobile": null,
+                    "logo_maxheight": "120",
+                    "logo_maxheight_mobile": "90",
+                    "cart_custom": null,
+                    "cart_custom_light": null,
+                    "user_custom": null,
+                    "user_custom_light": null,
+                    "search_custom": null,
+                    "search_custom_light": null,
+                    "top": true,
+                    "top_text": "<p style=\"text-align: center;\">Tch\u00ea Reformas e Reparos, contemos a equipe t\u00e9cnica mais qualificada da regi\u00e3o&nbsp;<strong><\/strong><strong><strong><\/strong><br><\/strong><\/p>",
+                    "top_bg": null,
+                    "top_color": "#fd8510",
+                    "menu_top": null,
+                    "menu_main": "principal",
+                    "menu_departments": null,
+                    "version_menu": false,
+                    "menu_list": true,
+                    "menu_color_bg": null,
+                    "menu_color": "#ff7e00",
+                    "menu_color_bg_dp": "#000000",
+                    "menu_color_dp": "#ffffff"
+                },
+                "blocks": [
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "whatsapp",
+                            "value": "(41) 9 9161-8988"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "phone",
+                            "value": "(41) 3086-1333"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "email",
+                            "value": "contato@tchereformas.com.br"
+                        }
+                    }
+                ]
+            },
+            "footer": {
+                "type": "footer",
+                "settings": {
+                    "container": "container-fluid",
+                    "type": "1",
+                    "version": false,
+                    "footer_bg": null,
+                    "primary_color": "#202223",
+                    "secondary_color": "#ff9c3d",
+                    "highlight_color": "#ff7e00",
+                    "border_color": null,
+                    "border_opacity": 0,
+                    "margin_up": 1,
+                    "margin_dw": 2,
+                    "logo_dark": {
+                        "src": "media:\/\/files\/logo-400x200-preto-4.png?v=1616085431"
+                    },
+                    "logo_light": null,
+                    "logo_mobile": null,
+                    "logo_maxheight": "120",
+                    "logo_maxheight_mobile": "50",
+                    "menu_footer_1": "principal",
+                    "menu_footer_2": "rodape",
+                    "menu_footer_3": null,
+                    "menu_footer": null,
+                    "newsletter_title": "SOLICITE UM OR\u00c7AMENTO",
+                    "contact_title": "Central de atendimento",
+                    "payment_title": "Pagamento",
+                    "security_title": "Seguran\u00e7a",
+                    "certificate_title": "Certificados",
+                    "seal_payment": true,
+                    "payment_color": true,
+                    "seal_payment_amex": true,
+                    "seal_payment_aura": true,
+                    "seal_payment_bancointer": true,
+                    "seal_payment_diners": true,
+                    "seal_payment_discover": true,
+                    "seal_payment_elo": true,
+                    "seal_payment_hiper": true,
+                    "seal_payment_hipercard": true,
+                    "seal_payment_jcb": true,
+                    "seal_payment_master": true,
+                    "seal_payment_visa": true,
+                    "seal_payment_paypal": false,
+                    "seal_payment_billet": false,
+                    "seal_payment_itau": true,
+                    "seal_payment_mercadopago": false,
+                    "seal_payment_picpay": false,
+                    "seal_payment_ame": true,
+                    "seal_payment_pix": true,
+                    "seal_security": true,
+                    "security_color": true,
+                    "seal_security_googlesafe": true,
+                    "seal_security_ssl": true,
+                    "seal_certificate": null,
+                    "terms": "<p>Loja desenvolvida por agencia CM<\/p>",
+                    "phrase_id": "5",
+                    "version_phrases": false,
+                    "logo_partner": {
+                        "src": "media:\/\/files\/1.jpg?v=1614731706"
+                    },
+                    "logo_partner_url": "https:\/\/api.whatsapp.com\/send?phone=5551985705174"
+                },
+                "blocks": [
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "whatsapp",
+                            "value": "(41) 9 9161-8988"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "phone",
+                            "value": "(41) 3086-1333"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "email",
+                            "value": "contato@tchereformas.com.br"
+                        }
+                    },
+                    {
+                        "type": "text",
+                        "settings": {
+                            "type": "address",
+                            "value": "Rua Monsenhor Ivo Zanlorenzi, 3847 - Campina do Siqueira, Curitiba - PR, 81020-490"
+                        }
+                    }
+                ]
+            },
+            "collection-banner": {
+                "type": "collection-banner",
+                "settings": {
+                    "container": "container-fluid",
+                    "show_logo": false
+                },
+                "blocks": []
+            },
+            "collection-content": {
+                "type": "collection-content",
+                "settings": {
+                    "collection_sort": "-relevance",
+                    "filter_position": "left",
+                    "products_per_row": "3",
+                    "products_per_page": "48",
+                    "container": "container-fluid",
+                    "filter_color_type": "list"
+                },
+                "blocks": []
+            },
+            "collection-seo": {
+                "type": "collection-seo",
+                "settings": {
+                    "container": "container-fluid",
+                    "seo_align": "down"
+                },
+                "blocks": []
+            },
+            "product-info": {
+                "type": "product-info",
+                "settings": {
+                    "product_breadcrumb": false,
+                    "image_position": "left",
+                    "image_galery": "gallery-down",
+                    "mobile_zoom": false,
+                    "product_main_image_zoom": true,
+                    "product_features": null,
+                    "product_reference": false,
+                    "id_erp": false,
+                    "product_brand": false,
+                    "customize_style": "closed",
+                    "product_request_text": "Infelizmente o estoque deste item acabou :(",
+                    "product_request_text_button": "Avise-me quando chegar",
+                    "product_request_text_instruction": "Insira seus dados e receba uma notifica\u00e7\u00e3o quando este produto estiver dispon\u00edvel",
+                    "pre_sale_text": "Seja o primeiro a comprar este produto. Insira seus dados abaixo para ser notificado no seu lan\u00e7amento.",
+                    "pre_sale_button": "Avise-me no lan\u00e7amento",
+                    "product_alert": "0",
+                    "product_quantity": false,
+                    "product_alert_message": null,
+                    "variation_cheap_message": false,
+                    "product_atribute_type": "button",
+                    "product_payment": false,
+                    "product_shipping": false,
+                    "product_shipping_seals": false,
+                    "text_btn_kit": "Produtos do kit",
+                    "product_colors_title": null,
+                    "product_colors_type": "colors",
+                    "product_colors_slider": false,
+                    "product_options_title": null,
+                    "share_product": false,
+                    "share_product_colors": true,
+                    "share_whatsapp": true,
+                    "share_facebook": true,
+                    "share_twitter": true,
+                    "share_pinterest": false,
+                    "quick_buy": true
+                },
+                "blocks": []
+            },
+            "product-related": {
+                "type": "product-related",
+                "settings": {
+                    "title": "OUTROS SERVI\u00c7OS",
+                    "subtitle": null,
+                    "container": "container",
+                    "custom_class": null,
+                    "hide_mobile": false,
+                    "title_color": null,
+                    "subtitle_color": null,
+                    "background_color": null,
+                    "post_background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 1,
+                    "margin_up": 10,
+                    "margin_dw": 10
+                },
+                "blocks": []
+            },
+            "banners-carousel-58377940": {
+                "type": "banners-carousel",
+                "settings": {
+                    "section_name": null,
+                    "hide_mobile": true,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container-fluid",
+                    "speed": "3",
+                    "section_maxheight": null,
+                    "arrows": false,
+                    "dots": true,
+                    "background_color": null,
+                    "background_image": null,
+                    "background_parallax": false
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "src": {
+                                "src": "media:\/\/files\/verde-e-preto-padrao-reuniao-da-empresa-apresentacao-7.jpg?v=1616167203"
+                            },
+                            "parallax": true,
+                            "zoom_off": false,
+                            "src_mobile": null,
+                            "video": null,
+                            "title": "Precisando construir ou Reformar?",
+                            "content": "<p>Iremos auxiliar no que voc\u00ea precisar.&nbsp;<\/p>\n<p>De pequenas reformas at\u00e9 a obra completa!<\/p>",
+                            "button_text": "SOLICITAR ORCAMENTO GRATUITO",
+                            "banner_url": "https:\/\/tchereformas.dooca.store\/solicite-o-orcamento-conosco",
+                            "banner_blank": false,
+                            "banner_date": null,
+                            "banner_align": "text-left justify-content-start",
+                            "mask_color": "#7e7e7e",
+                            "mask_opacity": 6,
+                            "title_color": "#ffffff",
+                            "text_color": "#ffffff",
+                            "button_bg_color": "#fd9936",
+                            "button_text_color": null
+                        }
+                    }
+                ]
+            },
+            "instagram-13649490": {
+                "type": "instagram",
+                "settings": {
+                    "client_id": "5867641803",
+                    "token_id": "5867641803.46416ac.594403aa7d8d4033b97fc68e0d63d950",
+                    "instagram_username": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "limit": 3,
+                    "grid": true,
+                    "show_like_comments": false,
+                    "background_color": null,
+                    "border_color": null,
+                    "user_text_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 10,
+                    "margin_dw": 10,
+                    "padding": 1
+                },
+                "blocks": [],
+                "disabled": true
+            },
+            "image-text-overlaid-87563301": {
+                "type": "image-text-overlaid",
+                "settings": {
+                    "section_name": null,
+                    "title": "TCHEREFORMAS Equipe t\u00e9cnica qualificada",
+                    "text": "Acreditamos que que o desenvolvimento de cada projeto depende exclusivamente de uma equipe altamente qualificada.\n\nPois n\u00e3o adianta ter as melhores ferramentas tecnol\u00f3gicas se n\u00e3o souber usa-las.\n\nAssim cada vez mais buscamos colaboradores e parceiros altamente qualificado, e consequentemente alcan\u00e7amos o sucesso dos nossos projetos.",
+                    "button_text": "CONHE\u00c7A OS NOSSOS SERVI\u00c7OS",
+                    "button_url": "https:\/\/tchereformas.dooca.store\/produtos",
+                    "button_target": false,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "align": "left",
+                    "title_color": null,
+                    "text_color": null,
+                    "background_section_color": null,
+                    "background_color": null,
+                    "border_color": null,
+                    "background_image": {
+                        "src": "media:\/\/files\/manutencao-predial.jpg?v=1613593563"
+                    },
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 10,
+                    "margin_dw": 10
+                },
+                "blocks": []
+            },
+            "image-text-73180357": {
+                "type": "image-text",
+                "settings": {
+                    "section_name": null,
+                    "title": "TCHEREFORMAS",
+                    "subtitle": "O IDEAL PARA VOC\u00ca",
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "align": "default",
+                    "bpl": "12",
+                    "title_color": "#ffffff",
+                    "subtitle_color": "#c2c2c2",
+                    "background_color": "#000000",
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 6,
+                    "margin_dw": 6
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/logo-800x600-1.png?v=1613756864"
+                            },
+                            "title": null,
+                            "text": "<p>A Tch\u00ea Reformas & Reparos \u00e9 uma empesa com mais de 25 anos de experi\u00eancia no seguimento constru\u00e7\u00e3o civil.<br><br>Com o comprometimento de atender os nossos clientes com maestria, vamos se destacando dentro do seguimento.<br><br>Contamos hoje com profissional altamente qualificados sendo uma equipe formada por Engenheiros, Arquitetos, T\u00e9cnicos, Eletricistas, Pedreiros entre outras fun\u00e7\u00f5es de extrema import\u00e2ncia para desenvolver qualquer tipo de servi\u00e7os dentro do seguimento da constru\u00e7\u00e3o.<\/p>\n<p> <br><\/p>\n<h2><strong>Seja bem-vindo!<\/strong><\/h2>",
+                            "button_text": "QUEM SOMOS",
+                            "button_url": "https:\/\/tchereformas.dooca.store\/sobre-a-nossa-empresa",
+                            "button_blank": false,
+                            "button_bg_color": "#fd9936",
+                            "button_text_color": null
+                        }
+                    }
+                ]
+            },
+            "banners-commercial-71956588": {
+                "type": "banners-commercial",
+                "settings": {
+                    "section_name": null,
+                    "title": "ALGUMAS ESPECIALIZA\u00c7\u00d5ES",
+                    "subtitle": null,
+                    "hide_mobile": true,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "bpl_mobile": "col-12",
+                    "align": "top",
+                    "title_color": "#fe7a00",
+                    "description_color": null,
+                    "background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 5,
+                    "margin_dw": 0
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/material-de-construcao-civil-ricardo-giustipmpa-e1471891946721.jpg?v=1614729892"
+                            },
+                            "title": null,
+                            "description": null,
+                            "url": null,
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/construcao.jpg?v=1614729594"
+                            },
+                            "title": null,
+                            "description": null,
+                            "url": null,
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/construcao-civil.jpg?v=1614729615"
+                            },
+                            "title": null,
+                            "description": null,
+                            "url": null,
+                            "target": false
+                        }
+                    }
+                ]
+            },
+            "customize-product": {
+                "type": "customize-product",
+                "settings": {
+                    "title": "Produtos do kit",
+                    "subtitle": null,
+                    "order": "group",
+                    "variation_select_type": "select",
+                    "buy_individual_products": false,
+                    "show_price_individual_products": false
+                },
+                "blocks": []
+            },
+            "product-description": {
+                "type": "product-description",
+                "settings": {
+                    "type": "2",
+                    "border_size": 1
+                },
+                "blocks": []
+            },
+            "product-badge-list": {
+                "type": "product-badge-list",
+                "settings": {
+                    "hidde_seals": false,
+                    "title": "Selos customizados",
+                    "margin_section": "10",
+                    "border_color": null,
+                    "border_size": "1"
+                },
+                "blocks": []
+            },
+            "latest-blog-posts-87627875": {
+                "type": "latest-blog-posts",
+                "settings": {
+                    "section_name": null,
+                    "title": "ALGUMAS DICAS PARA SOBRE  SERVI\u00c7OS",
+                    "subtitle": "CONHECIMENTO \u00c9 TUDO!",
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "ppl": "4",
+                    "limit": 3,
+                    "title_color": "#fe7a00",
+                    "subtitle_color": "#323435",
+                    "button_bg_color": null,
+                    "button_text_color": null,
+                    "background_color": null,
+                    "post_background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 1,
+                    "margin_up": 10,
+                    "margin_dw": 10
+                },
+                "blocks": []
+            },
+            "collection-hotsite": {
+                "type": "collection-hotsite",
+                "settings": {
+                    "hotsite_align": "down"
+                },
+                "blocks": []
+            },
+            "sidebar": {
+                "type": "sidebar",
+                "settings": {
+                    "filter_position": "left",
+                    "sidebar_custom": false,
+                    "sidebar_ids": null
+                },
+                "blocks": []
+            },
+            "image-highlights-topics-18624562": {
+                "type": "image-highlights-topics",
+                "settings": {
+                    "section_name": null,
+                    "title": "ALGUMAS ESPECIALIZA\u00c7\u00d5ES",
+                    "subtitle": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container-fluid",
+                    "title_color": null,
+                    "subtitle_color": null,
+                    "background_color": null,
+                    "topic_background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": true,
+                    "border_size": 0,
+                    "margin_up": 10,
+                    "margin_dw": 10,
+                    "main_image": null
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/unnamed.jpg?v=1613783006"
+                            },
+                            "title": "IM\u00d3VEIS COMERCIAIS",
+                            "text": "Abordamos uma forma ampla quando se trata de servi\u00e7os de reformas comercial.\n\nCada nicho de atua\u00e7\u00e3o precisa de um tipo de aten\u00e7\u00e3o t\u00e9cnica, pois existe a necessidade de entender o projeto arquitet\u00f4nico, entretanto sem perder a aten\u00e7\u00e3o na parte estrutural do im\u00f3vel.\n\nE contratar uma empresa especializada em servi\u00e7os de reformas comercial faz muita diferen\u00e7a, assim evitara futuras dores de cabe\u00e7a com o im\u00f3vel.",
+                            "button_text": "VEJA MAIS",
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": null,
+                            "button_text_color": null
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/trabalhadores-do-setor-da-construcao-civil.jpg?v=1613782970"
+                            },
+                            "title": "REFORMA DE APARTAMENTOS",
+                            "text": "Todo processo de reformas de um apartamento \u00e9 bastante complicado.\n\nPois existe todo processo de normas de cada condom\u00ednio.\n\nHor\u00e1rio para descer entulho, hor\u00e1rio para quebrar, e assim por diante. \n\nPorem temos vasta experi\u00eancia nesse tipo de atividade.\n\nSem contar que todos trabalhos s\u00e3o acompanhados por Engenheiros ou Arquitetos.",
+                            "button_text": "VEJA MAIS",
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": null,
+                            "button_text_color": null
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/testre.jpg?v=1613782818"
+                            },
+                            "title": "IM\u00d3VEIS COMERCIAIS",
+                            "text": "Abordamos uma forma ampla quando se trata de servi\u00e7os de reformas comercial.\n\nCada nicho de atua\u00e7\u00e3o precisa de um tipo de aten\u00e7\u00e3o t\u00e9cnica, pois existe a necessidade de entender o projeto arquitet\u00f4nico, entretanto sem perder a aten\u00e7\u00e3o na parte estrutural do im\u00f3vel.\n\nE contratar uma empresa especializada em servi\u00e7os de reformas comercial faz muita diferen\u00e7a, assim evitara futuras dores de cabe\u00e7a com o im\u00f3vel.",
+                            "button_text": "VEJA MAIS",
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": "#feac5d",
+                            "button_text_color": null
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/reforma-de-galpao-571089.jpg?v=1614270754"
+                            },
+                            "title": "GALP\u00c3O INDUSTRIAL",
+                            "text": "Na maioria das vezes a reforma ocorre em pleno andamento da produ\u00e7\u00e3o da fabrica.\n\nAssim todo servi\u00e7os tem que ser projetado para um servi\u00e7o com maior rapidez sem fugir da qualidade e da seguran\u00e7a.\n\nAssim, execu\u00e7\u00e3o de cronograma, equipamentos adequados e equipe qualificada s\u00e3o de extrema import\u00e2ncia para sucesso da reforma.",
+                            "button_text": "VEJA MAIS",
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": "#fd9936",
+                            "button_text_color": null
+                        }
+                    }
+                ],
+                "disabled": true
+            },
+            "product-unique-5762933": {
+                "type": "product-unique",
+                "settings": {
+                    "section_name": null,
+                    "title": "SERVI\u00c7O DE REFORMA",
+                    "subtitle": "RESID\u00caNCIAS",
+                    "products": "1427336",
+                    "product_main_image_zoom": true,
+                    "hide_mobile": false,
+                    "hide_desktop": true,
+                    "custom_class": null,
+                    "container": "container",
+                    "title_color": "#ff7f00",
+                    "subtitle_color": "#000000",
+                    "background_color": null,
+                    "post_background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 3,
+                    "margin_dw": 3
+                },
+                "blocks": []
+            },
+            "banners-commercial-3902657": {
+                "type": "banners-commercial",
+                "settings": {
+                    "section_name": null,
+                    "title": "Porque Escolher a Tch\u00ea Reformas",
+                    "subtitle": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "bpl_mobile": "col-12",
+                    "align": "top",
+                    "title_color": "#fd8510",
+                    "description_color": "#000000",
+                    "background_color": "#ffffff",
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 2,
+                    "margin_dw": 2
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "Profissionais Qualificados",
+                            "description": "Nossa equipe \u00e9 formada por profissionais e parceiros altamente qualificados. Tamb\u00e9m nossos servi\u00e7os s\u00e3o acompanhados por Engenheiros, arquitetos ou outros profissionais t\u00e9cnicos sendo eles capazes de achar as melhores solu\u00e7\u00f5es para diversos tipos de situa\u00e7\u00f5es contra versas.",
+                            "url": null,
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "Gest\u00e3o De Obras",
+                            "description": "Todos servi\u00e7os s\u00e3o supervisionados pelo departamento t\u00e9cnico onde a busca constante de controle de gerenciamento de projetos. Atrav\u00e9s do cronograma de obras conseguimos acompanhar de perto todo processo de custo, produ\u00e7\u00e3o, qualidade, gerenciamento de compra de materiais etc",
+                            "url": null,
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "Supervis\u00e3o Engenheiros",
+                            "description": "Nossa equipe \u00e9 formada por profissionais e parceiros altamente qualificados. Onde todos nossos servi\u00e7os s\u00e3o acompanhados de perto por Engenheiros, arquitetos ou outros profissionais t\u00e9cnicos sendo eles capazes de achar as melhores solu\u00e7\u00f5es para diversos tipos de situa\u00e7\u00f5es contra versas.",
+                            "url": null,
+                            "target": false
+                        }
+                    }
+                ],
+                "disabled": true
+            },
+            "banners-commercial-17298088": {
+                "type": "banners-commercial",
+                "settings": {
+                    "section_name": null,
+                    "title": null,
+                    "subtitle": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "bpl_mobile": "col-12",
+                    "align": "top",
+                    "title_color": "#000000",
+                    "description_color": null,
+                    "background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 2,
+                    "margin_dw": 2
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "SOLICITE O OR\u00c7AMENTO NO NOSSO FORMUL\u00c1RIO",
+                            "description": null,
+                            "url": "https:\/\/tchereformas.dooca.store\/solicite-o-orcamento-conosco",
+                            "target": false
+                        }
+                    }
+                ]
+            },
+            "banners-commercial-95235073": {
+                "type": "banners-commercial",
+                "settings": {
+                    "section_name": null,
+                    "title": null,
+                    "subtitle": null,
+                    "hide_mobile": true,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container",
+                    "bpl_mobile": "col-12",
+                    "align": "top",
+                    "title_color": "#fd8510",
+                    "description_color": "#767676",
+                    "background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 0,
+                    "margin_dw": 0
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "REFORMAS RESIDENCIAIS",
+                            "description": "Aqui t\u00eam os melhores profissionais servi\u00e7os de execu\u00e7\u00e3o de projetos arquitet\u00f4nicos, projetos Interiores e servi\u00e7os de reformas residenciais, reformas apartamentos.\n\nTrazemos aos nossos clientes solu\u00e7\u00f5es criativas e t\u00e9cnicas para cada tipo de projeto.\n\nNossos Engenheiros e Arquitetos e demais profissionais s\u00e3o altamente qualificados.",
+                            "url": "https:\/\/tchereformas.dooca.store\/produtos",
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "GALP\u00c3O INDUSTRIAL",
+                            "description": "Aqui t\u00eam os melhores profissionais servi\u00e7os de execu\u00e7\u00e3o de projetos arquitet\u00f4nicos, projetos Interiores e servi\u00e7os de reformas residenciais, reformas apartamentos.\n\nTrazemos aos nossos clientes solu\u00e7\u00f5es criativas e t\u00e9cnicas para cada tipo de projeto.\n\nNossos Engenheiros e Arquitetos e demais profissionais s\u00e3o altamente qualificados.",
+                            "url": "https:\/\/tchereformas.dooca.store\/produtos",
+                            "target": false
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": null,
+                            "title": "REFORMA PREDIAL",
+                            "description": "Reforma de fachada predial \u00e9 realizada por meio de um projeto extremamente detalhado.\n\nNesse estudo ser\u00e3o definidas os tipos de a\u00e7\u00f5es que ser\u00e3o necess\u00e1rias para realiza\u00e7\u00e3o de um servi\u00e7o com seguran\u00e7a e qualidade t\u00e9cnica.\n\nTodo servi\u00e7o s\u00e3o acompanhado por Engenheiro Civil altamente qualificado.\n\nQuer deixar seu im\u00f3vel recuperado e revitalizado.",
+                            "url": "https:\/\/tchereformas.dooca.store\/produtos",
+                            "target": false
+                        }
+                    }
+                ]
+            },
+            "banners-carousel-42926668": {
+                "type": "banners-carousel",
+                "settings": {
+                    "section_name": null,
+                    "hide_mobile": false,
+                    "hide_desktop": true,
+                    "custom_class": null,
+                    "container": "container-fluid",
+                    "speed": "3",
+                    "section_maxheight": null,
+                    "arrows": false,
+                    "dots": true,
+                    "background_color": null,
+                    "background_image": null,
+                    "background_parallax": false
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "src": null,
+                            "parallax": false,
+                            "zoom_off": false,
+                            "src_mobile": {
+                                "src": "media:\/\/files\/mobile.jpg?v=1616009130"
+                            },
+                            "video": null,
+                            "title": "Precisando construir ou Reformar?",
+                            "content": "<p>Iremos auxiliar no que voc\u00ea precisar. <\/p>\n<p>De pequenas reformas at\u00e9 a obra completa!<\/p>",
+                            "button_text": "ORCAMENTO",
+                            "banner_url": "https:\/\/tchereformas.dooca.store\/solicite-o-orcamento-conosco",
+                            "banner_blank": false,
+                            "banner_date": null,
+                            "banner_align": "text-left justify-content-start",
+                            "mask_color": "#7e7e7e",
+                            "mask_opacity": 5,
+                            "title_color": "#FFFFFF",
+                            "text_color": "#FFFFFF",
+                            "button_bg_color": "#fd9936",
+                            "button_text_color": null
+                        }
+                    }
+                ]
+            },
+            "image-highlights-topics-9649815": {
+                "type": "image-highlights-topics",
+                "settings": {
+                    "section_name": null,
+                    "title": "Porque Escolher a Tch\u00ea Reformas",
+                    "subtitle": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": "motivos-4",
+                    "container": "container",
+                    "title_color": "#ff962e",
+                    "subtitle_color": "#b7b7b7",
+                    "background_color": null,
+                    "topic_background_color": null,
+                    "border_color": null,
+                    "background_image": null,
+                    "background_parallax": false,
+                    "border_size": 0,
+                    "margin_up": 10,
+                    "margin_dw": 10,
+                    "main_image": {
+                        "src": "media:\/\/files\/azul-e-branco-multicolorido-dia-da-terra-post-para-instagram-3.jpg?v=1616158164"
+                    }
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/logo-preto-e-amarelo-de-barbearia-13.jpg?v=1616159436"
+                            },
+                            "title": null,
+                            "text": null,
+                            "button_text": null,
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": "#ffffff",
+                            "button_text_color": "#000000"
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/logo-preto-e-amarelo-de-barbearia-14.jpg?v=1616159511"
+                            },
+                            "title": null,
+                            "text": null,
+                            "button_text": null,
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": null,
+                            "button_text_color": null
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/logo-preto-e-amarelo-de-barbearia-15.jpg?v=1616159579"
+                            },
+                            "title": null,
+                            "text": null,
+                            "button_text": null,
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": null,
+                            "button_text_color": null
+                        }
+                    },
+                    {
+                        "type": "image",
+                        "settings": {
+                            "image": {
+                                "src": "media:\/\/files\/logo-preto-e-amarelo-de-barbearia-16.jpg?v=1616159618"
+                            },
+                            "title": null,
+                            "text": null,
+                            "button_text": null,
+                            "button_url": null,
+                            "button_blank": false,
+                            "button_bg_color": null,
+                            "button_text_color": null
+                        }
+                    }
+                ]
+            },
+            "banners-carousel-33652521": {
+                "type": "banners-carousel",
+                "settings": {
+                    "section_name": null,
+                    "hide_mobile": false,
+                    "hide_desktop": false,
+                    "custom_class": null,
+                    "container": "container-fluid",
+                    "speed": "3",
+                    "section_maxheight": null,
+                    "arrows": false,
+                    "dots": true,
+                    "background_color": null,
+                    "background_image": null,
+                    "background_parallax": false
+                },
+                "blocks": [
+                    {
+                        "type": "image",
+                        "settings": {
+                            "src": {
+                                "src": "media:\/\/files\/obras-1.jpg?v=1616217806"
+                            },
+                            "parallax": false,
+                            "zoom_off": false,
+                            "src_mobile": null,
+                            "video": null,
+                            "title": null,
+                            "content": "<figure><img src=\"media:\/\/files\/logo-400x200-preto-5.png\" data-image=\"u3h3n223q5fu\" draggable=\"false\"><\/figure>",
+                            "button_text": "SERVI\u00c7OS ALTAMENTE QUALIFICADOS",
+                            "banner_url": "https:\/\/tchereformas.dooca.store\/todos-os-servicos",
+                            "banner_blank": false,
+                            "banner_date": null,
+                            "banner_align": "text-center justify-content-center",
+                            "mask_color": null,
+                            "mask_opacity": 10,
+                            "title_color": "#fd8510",
+                            "text_color": "#797b7d",
+                            "button_bg_color": "#67696b",
+                            "button_text_color": "#000000"
+                        }
+                    }
+                ]
+            }
+        },
+        "content_for_index": [
+            "banners-carousel-58377940",
+            "banners-carousel-42926668",
+            "image-text-73180357",
+            "banners-commercial-17298088",
+            "banners-carousel-33652521",
+            "banners-commercial-3902657",
+            "banners-commercial-71956588",
+            "banners-commercial-95235073",
+            "image-highlights-topics-9649815",
+            "product-unique-5762933",
+            "image-text-overlaid-87563301",
+            "latest-blog-posts-87627875",
+            "image-highlights-topics-18624562"
+        ]
+    }
+}
